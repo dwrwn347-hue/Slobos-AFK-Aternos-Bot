@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BlissSmpgg.aternos.me:15754",
-    "port": 27586,
+    "ip": "BlissSmpgg.aternos.me",
+    "port": 15754,
     "version": "1.21.11",
     "try-creative": false
   },
